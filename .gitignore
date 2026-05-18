@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Spring
+target/
+*.log
+
+# React
+node_modules/
+dist/
+build/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
